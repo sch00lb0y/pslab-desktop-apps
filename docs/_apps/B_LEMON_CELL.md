@@ -1,7 +1,9 @@
 
-layout | title | date | description |
--------|-------|------|-------------|
-expt | Lemon cell | 2017-05-21 | experiments with a lemon cell |
+
+|layout | title | date | description |
+|-------|-------|------|-------------|
+|expt | Lemon cell | 2017-05-21 | experiments with a lemon cell |
+
 
 ## Measure the voltage of a lemon cell
 
